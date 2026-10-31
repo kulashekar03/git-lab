@@ -1,2 +1,6 @@
 first git lab
+<<<<<<< HEAD
 this line is added from repository
+=======
+this line is added from local computer
+>>>>>>> 4cfdeb2 (updated)
